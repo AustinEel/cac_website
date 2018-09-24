@@ -1308,7 +1308,7 @@ body.homepage #header {
     font-size: 4em; }
   body.homepage #header:after {
     content: '';
-    background: #1C0920;
+    background: white;
     display: block;
     position: absolute;
     left: 0;
